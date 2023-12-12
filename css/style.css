@@ -16,10 +16,14 @@ a, a:hover {
 .koffiebruin{
   color: #ca8446;
 }
-span{
-  color:#ca8446;
+h4 {
+  text-transform: uppercase;
+  font-weight: bolder;
+  
 }
-
+h6{
+  color : #41190f;
+}
 .justify { 
   text-align: justify; 
 }
