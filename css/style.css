@@ -19,3 +19,17 @@ a, a:hover {
 span{
   color:#ca8446;
 }
+
+.justify { 
+  text-align: justify; 
+}
+
+.accordion-button:not(.collapsed) {
+  color: #ca8446;
+  background-color: #fff;
+}
+.img-small{
+  padding: 0 20px 20px 0;
+  width: 100px;
+  height: 100px;
+}
